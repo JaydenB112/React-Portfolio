@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Ursula Lopez. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 I'm Jay Boyd. I've enrolled in CodeSchool in order to further hone my software development skills and become job ready as soon as possible.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,12 +11,12 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Pressure Washing Website",
+        "startDate": "2023",
+        "description": "I'm so confident in my web development skills that I decided to help my friend out by making him a website for his friend out, it's one of the first tasks that I am solely responsible for. It's a big step and I hope I can make a great product!",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/powerWasherDude.jpg",
+          ""
         ],
         "url": "",
         "technologies": [
@@ -35,12 +35,12 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Big Brothers Big Sisters",
+        "startDate": "2023",
+        "description": "I was in charge of styling the Board of Directors page, updating some forms and adding functionality to the About Us page, it was a great experience and gave me good exposure.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/Screenshot (72).png",
+          ""
         ],
         "url": "https://github.com",
         "technologies": [
@@ -55,12 +55,12 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Salmon Cookies",
+        "startDate": "2023",
+        "description": "One of the first interactions with objects and constructor functions, it was a struggle to learn those two imperative concepts but I learned a lot along the way!",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/salmonjump.jpg",
+          ""
         ],
         "url": "https://github.com",
         "technologies": [
@@ -100,11 +100,11 @@
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Lowes",
+        "title": "Sales Associate",
+        "years": "06.2022 - ",
         "mainTech": [
-          "Angular 7/8"
+          "ColorPro MXI"
         ],
         "technologies": [
           "RxJS",

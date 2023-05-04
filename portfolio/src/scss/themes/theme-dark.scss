@@ -7,11 +7,11 @@ body[data-theme="dark"] {
    }
 
    .title-styles {
-      color: white;
+      color: cyan;
    }
 
    .header-icon {
-      color: #3C342C;
+      color: cyan;
       opacity: 0.8;
    }
 
@@ -74,12 +74,12 @@ body[data-theme="dark"] {
       }
 
       .experience-badge {
-         background: #919191 !important;
+         background: cyan !important;
          color: white;
       }
 
       .main-badge {
-         background: #919191 !important;
+         background: cyan !important;
       }
 
       .vertical-timeline-element-date {
@@ -87,7 +87,7 @@ body[data-theme="dark"] {
       }
 
       .vertical-timeline-element-icon {
-         background: #919191 !important;
+         background: cyan !important;
       }
       @media only screen and (max-width: 1169px) { 
          .vertical-timeline-element-date {
