@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Jay Boyd. I've enrolled in CodeSchool in order to further hone my software development skills and become job ready as soon as possible.",
+      "description": "👋 I'm Jay, a an ambitious and dynamic junior full stack software developer with a strong passion for collaborative problem-solving. My primary goal is to make meaningful contributions to your team's objectives while also nurturing and expanding my skill set continuously. I'm committed to delivering high-quality code and innovative solutions that drive the success of our projects.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -21,7 +21,7 @@
         "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
+            "class": "devicon-csharp-plain",
             "name": "Angular"
           },
           {
@@ -81,37 +81,16 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
-        "mainTech": [
-          "Angular 8/9/10"
-        ],
-        "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
-        ]
-      },
-      {
         "company": "Lowes",
         "title": "Sales Associate",
         "years": "06.2022 - ",
         "mainTech": [
-          "ColorPro MXI"
+          "C#"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "ColorPro MXI",
+          ".NET Core",
+          "Crystal"
         ]
       }
     ]
