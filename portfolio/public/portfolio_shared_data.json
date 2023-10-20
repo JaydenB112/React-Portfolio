@@ -14,7 +14,7 @@
           "class": "fab fa-linkedin"
         }
       ],
-      "image": "Me.jpg"
+      "image": "HeadShot.jpg"
     },
     "skills": {
       "icons": [
@@ -29,13 +29,13 @@
           "level": "95"
         },
         {
-          "name": "Angular",
-          "class": "devicon-angularjs-plain",
+          "name": "React",
+          "class": "devicon-react-plain",
           "level": "80"
         },
         {
-          "name": "TypeScript",
-          "class": "devicon-typescript-plain",
+          "name": "Express",
+          "class": "devicon-express-original",
           "level": "90"
         },
         {
@@ -62,6 +62,11 @@
           "name": "MySql",
           "class": "devicon-mysql-plain",
           "level": "60"
+        },
+        {
+          "name":"MongoDB",
+          "class":"devicon-mongodb-plain",
+          "level":"80"
         }
       ]
     }
