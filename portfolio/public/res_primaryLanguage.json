@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Jay, a an ambitious and dynamic junior full stack software developer with a strong passion for collaborative problem-solving. My primary goal is to make meaningful contributions to your team's objectives while also nurturing and expanding my skill set continuously. I'm committed to delivering high-quality code and innovative solutions that drive the success of our projects.",
+      "description": "👋 I'm Jay, an ambitious and dynamic junior full stack software developer with a strong passion for collaborative problem-solving. My primary goal is to make meaningful contributions to your team's objectives while also nurturing and expanding my skill set continuously. I'm committed to delivering high-quality code and innovative solutions that drive the success of our projects.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,22 +11,17 @@
     },
     "projects": [
       {
-        "title": "Pressure Washing Website",
+        "title": "C# Tic Tac Toe",
         "startDate": "2023",
-        "description": "I'm so confident in my web development skills that I decided to help my friend out by making him a website for his friend out, it's one of the first tasks that I am solely responsible for. It's a big step and I hope I can make a great product!",
+        "description": "This is one of the first projects with C#, just establishing core concepts and getting familiar.",
         "images": [
-          "images/powerWasherDude.jpg",
-          ""
+          "images/TicTacToe.png"
         ],
-        "url": "",
+        "url": "https://github.com/JaydenB112/401Lab04",
         "technologies": [
           {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-dot-net-plain",
+            "name": ".NET"
           },
           {
             "class": "devicon-csharp-plain",
@@ -40,9 +35,9 @@
         "description": "I was in charge of styling the Board of Directors page, updating some forms and adding functionality to the About Us page, it was a great experience and gave me good exposure.",
         "images": [
           "images/Screenshot (72).png",
-          ""
+          "images/BigBrotherBigSister.png"
         ],
-        "url": "https://github.com",
+        "url": "https://msmentor.org/about/board-of-directors/",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -51,30 +46,34 @@
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
+          },
+          {
+            "class":"devicon-wordpress-plain",
+            "name":"WordPress"
           }
         ]
       },
       {
-        "title": "Salmon Cookies",
+        "title": "Tournament Bracket",
         "startDate": "2023",
-        "description": "One of the first interactions with objects and constructor functions, it was a struggle to learn those two imperative concepts but I learned a lot along the way!",
+        "description": "Spearheaded the backend express server and added stylization, and authorization in the end we created an organizational tool to be used to sort tournaments of up to 64 people.",
         "images": [
-          "images/salmonjump.jpg",
-          ""
+          "images/T-Bracket.png",
+          "images/Bracket-Demo.png"
         ],
-        "url": "https://github.com",
+        "url": "https://ttfrontend.onrender.com/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-react-original",
+            "name": "React"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-express-original",
+            "name": "Express"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB Atlas"
           }
         ]
       }
