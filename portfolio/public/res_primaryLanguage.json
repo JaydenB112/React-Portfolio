@@ -91,6 +91,29 @@
           ".NET Core",
           "Crystal"
         ]
+      },
+
+      {
+        "company": "CodeCrew",
+        "title": "Software Engineering Instructor",
+        "years": "12.2022 - ",
+        "mainTech": [
+          "MERN Stack"
+        ],
+        "technologies": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "React",
+          "Node",
+          "Express",
+          "MongoDB",
+          "C#",
+          ".NET",
+          "Azure",
+          "MySQL",
+          "Axios"
+        ]
       }
     ]
   }
